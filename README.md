@@ -2,6 +2,13 @@
 
 Generate PDF Certificates in bulk/individual from a template certificate. 
 
+
+# How to run the application :
+
+```
+python script.py template participant_data new_certis
+```
+
 ## Phase 1 
 
 - Build a script that can take a SVG/pdf template and generate new pdf from given information/csv file.
